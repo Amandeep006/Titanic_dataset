@@ -1,0 +1,31 @@
+What is the overall structure of the Titanic dataset?
+How many rows and columns are present in the dataset?
+Are there any missing values in the dataset?
+Are there any duplicate records in the dataset?
+Are there any inconsistent or incorrect data types?
+How should missing values be handled in the dataset?
+How many passengers were aboard the Titanic?
+What was the overall survival rate?
+What was the distribution of passengers by sex?
+What was the distribution of passengers across ticket classes?
+What was the age distribution of passengers?
+What was the distribution of ticket fares?
+Did survival rates differ between male and female passengers?
+How did survival rates differ across passenger classes?
+Which age groups had the highest survival rates?
+Did passenger class and sex together influence survival patterns?
+Did passengers embarking from different ports have different survival rates?
+Was ticket fare associated with survival?
+Did having family members aboard relate to survival?
+Were passengers traveling alone less likely to survive?
+Did family size affect survival rates?
+Were children more likely to survive than adults?
+Were higher ticket fares associated with higher survival rates within each passenger class?
+Which passenger groups had the highest and lowest survival rates?
+Were survival rates different for passengers with and without cabin information?
+Which variables showed the strongest association with survival?
+What percentage of passengers survived in each passenger class?
+How did survival rates vary across age groups within each passenger class?
+What proportion of passengers traveled alone versus with family?
+Were there outliers in age and fare?
+What were the three most important findings from the analysis?
